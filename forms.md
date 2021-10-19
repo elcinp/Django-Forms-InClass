@@ -25,6 +25,8 @@ create a new file and name as .env at same level as env folder
 copy your SECRET_KEY from settings.py into this .env file. Don't forget to remove quotation marks from SECRET_KEY
 ```
 SECRET_KEY = django-insecure-)=b-%-w+0_^slb(exmy*mfiaj&wz6_fb4m&s=az-zs!#1^ui7j
+---------
+SECRET_KEY = django-insecure-p2x1_4yweztgo&fk2l8l$g7fnl0&hm()^(*mp&9xyqu8jvdg9w
 ```
 go to settings.py, make amendments below
 ```python

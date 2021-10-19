@@ -1,3 +1,4 @@
+from student.models import Student
 from django.shortcuts import redirect, render
 from .forms import StudentForm
 from django.contrib import messages
